@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "云村",
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-navbar": "/uview/components/u-navbar/u-navbar",
+    "u-tabs": "/uview/components/u-tabs/u-tabs",
+    "u-icon": "/uview/components/u-icon/u-icon",
+    "u-waterfall": "/uview/components/u-waterfall/u-waterfall",
+    "cloud-u-waterfall-left": "/pages/cloud/cloud-u-waterfall-left",
+    "cloud-u-waterfall-right": "/pages/cloud/cloud-u-waterfall-right"
+  }
+}

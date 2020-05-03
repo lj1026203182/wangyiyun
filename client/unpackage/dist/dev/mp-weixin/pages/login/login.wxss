@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.input-row {
+  width: 600rpx;
+  height: 75rpx;
+  margin: 0 auto;
+  border: 1px solid #ff2419;
+  color: #6c6c6c;
+  border-radius: 75rpx;
+  padding: 0 50rpx;
+  line-height: 75rpx;
+  margin-bottom: 45rpx;
+  font-size: 26rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.login-form {
+  padding-top: 220rpx;
+}
+.login_btn {
+  width: 600rpx;
+  height: 75rpx;
+  margin: 0 auto;
+  border: 1px solid #eee;
+  border-radius: 75rpx;
+  padding: 0 50rpx;
+  line-height: 75rpx;
+  margin-bottom: 45rpx;
+  font-size: 26rpx;
+  color: #fff;
+  background: #ff2419;
+}
+.bot {
+  width: 600rpx;
+  padding: 0 17rpx;
+  font-size: 26rpx;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.sign {
+  color: #ff2419;
+}
+.auth-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  position: absolute;
+  bottom: 100rpx;
+  left: 0;
+  width: 100%;
+}
+.auth-row .auth-image {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #dddddd;
+  border-radius: 50px;
+  margin: 0 20px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.auth-row .img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.auth-row input {
+  outline: none;
+  border: none;
+  list-style: none;
+}
+.log-btn {
+  margin: 0;
+  padding: 0;
+  background: #fff !important;
+  height: 48px;
+}
+.log-btn::after {
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+

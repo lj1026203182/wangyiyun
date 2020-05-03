@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-navbar": "/uview/components/u-navbar/u-navbar",
+    "song-list": "/components/songList/SongList"
+  }
+}

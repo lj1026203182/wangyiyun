@@ -1,0 +1,101 @@
+
+Page {
+	background-color: #f7f7f7;
+}
+
+@charset "UTF-8";
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+Page {
+  background-color: #f7f7f7;
+}
+.slot-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 320rpx;
+  margin: 0 auto;
+}
+.date-bar {
+  width: 686rpx;
+  height: 160rpx;
+  padding: 20rpx 34rpx;
+  margin: 20rpx auto;
+  border-radius: 14rpx;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.7);
+  line-height: 70rpx;
+  font-weight: 600;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.date-bar .date-bar-left {
+  font-size: 34rpx;
+  font-weight: 600;
+}
+.date-bar .date-bar-num {
+  margin-top: -20rpx;
+  font-size: 44rpx;
+}
+.date-bar-swiper {
+  width: 430rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  color: #d0d2d3;
+  font-size: 24rpx;
+}
+.water-wrapper {
+  border-radius: 16rpx;
+  margin: 16rpx;
+  background-color: #FFFFFF;
+  -webkit-box-shadow: 0 0 4px 2px #eee;
+          box-shadow: 0 0 4px 2px #eee;
+}
+.water-wrapper .water-img {
+  width: 100%;
+  border-radius: 16rpx;
+}
+.water-content {
+  padding: 20rpx;
+}
+.water-content .water-content-title {
+  font-size: 26rpx;
+  color: #333333;
+  line-height: 39rpx;
+  height: 78rpx;
+}
+.water-content .water-content-des {
+  font-size: 24rpx;
+  color: #999;
+}
+.water-content .water-content-des .water-content-des_img {
+  width: 26rpx;
+  height: 26rpx;
+  border-radius: 50%;
+  margin-right: 4rpx;
+}
+.water-content .water-content-des .water-content-des_name {
+  max-width: 60%;
+}
+.water-content .water-content-des .water-content-des_like {
+  -webkit-box-flex: 1;
+  -webkit-flex: auto;
+          flex: auto;
+  white-space: nowrap;
+  text-align: right;
+}
+

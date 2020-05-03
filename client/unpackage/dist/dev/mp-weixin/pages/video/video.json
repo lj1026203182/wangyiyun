@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "视频",
+  "usingComponents": {
+    "u-navbar": "/uview/components/u-navbar/u-navbar",
+    "u-search": "/uview/components/u-search/u-search",
+    "u-tabs-swiper": "/uview/components/u-tabs-swiper/u-tabs-swiper",
+    "u-empty": "/uview/components/u-empty/u-empty"
+  }
+}

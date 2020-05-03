@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.nav-list {
+  height: 220rpx;
+  padding-top: 30rpx;
+  padding-bottom: 14rpx;
+  white-space: nowrap;
+  text-align: center;
+  line-height: 76rpx;
+  color: #666;
+  border-bottom: 1rpx solid #e6e6e6;
+  font-size: 24rpx;
+  background: #fff;
+}
+.nav-list .item {
+  position: relative;
+  display: inline-block;
+  height: 210rpx;
+  width: 166rpx;
+}
+.nav-list .img {
+  display: block;
+  width: 70rpx;
+  height: 70rpx;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.line-item {
+  padding: 0 40rpx;
+}
+.line-item .icon {
+  float: left;
+  width: 70rpx;
+  height: 70rpx;
+  margin-top: 24rpx;
+  margin-right: 36rpx;
+}
+.line-item .lab {
+  font-size: 32rpx;
+  color: #444;
+}
+.line-item .con {
+  position: relative;
+  height: 100rpx;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.line-item .con:before {
+  position: absolute;
+  content: "";
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  border-bottom: 1rpx solid #e6e6e6;
+}
+.recommend-list {
+  border-top: 16rpx solid #f8f8f8;
+}
+

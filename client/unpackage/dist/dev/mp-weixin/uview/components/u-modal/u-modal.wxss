@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.u-mask.data-v-69fbaaee {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+.btn-hover.data-v-69fbaaee {
+  background-color: #e6e6e6;
+}
+.u-mask-show.data-v-69fbaaee {
+  opacity: 1;
+  visibility: visible;
+}
+.u-model.data-v-69fbaaee {
+  height: auto;
+  overflow: hidden;
+  font-size: 32rpx;
+  background-color: #fff;
+}
+.u-model-title.data-v-69fbaaee {
+  padding-top: 48rpx;
+  font-weight: 500;
+  text-align: center;
+  color: #303133;
+}
+.u-model-content-meeeage.data-v-69fbaaee {
+  padding: 48rpx;
+  font-size: 30rpx;
+  text-align: center;
+  color: #606266;
+}
+.u-model-footer.data-v-69fbaaee {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.u-model-footer-button.data-v-69fbaaee {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 100rpx;
+  line-height: 100rpx;
+  font-size: 32rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 4rpx;
+}
+

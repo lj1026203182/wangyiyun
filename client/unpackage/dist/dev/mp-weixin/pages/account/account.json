@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "账号",
+  "usingComponents": {
+    "u-navbar": "/uview/components/u-navbar/u-navbar",
+    "u-modal": "/uview/components/u-modal/u-modal"
+  }
+}

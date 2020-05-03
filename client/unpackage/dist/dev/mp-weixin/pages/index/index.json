@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "发现",
+  "usingComponents": {
+    "u-navbar": "/uview/components/u-navbar/u-navbar",
+    "u-search": "/uview/components/u-search/u-search",
+    "u-lazy-load": "/uview/components/u-lazy-load/u-lazy-load",
+    "song-list": "/components/songList/SongList"
+  }
+}

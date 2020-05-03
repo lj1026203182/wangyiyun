@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cloud-u-waterfall-left": "/pages/cloud/cloud-u-waterfall-left",
+    "cloud-u-waterfall-right": "/pages/cloud/cloud-u-waterfall-right"
+  }
+}
